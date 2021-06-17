@@ -1,0 +1,30 @@
+{
+  "name": "arkady",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "run": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TigerMehMat/ARKady.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TigerMehMat/ARKady/issues"
+  },
+  "homepage": "https://github.com/TigerMehMat/ARKady#readme",
+  "dependencies": {
+    "@types/node": "^15.12.2",
+    "discord.js": "^12.5.3",
+    "typescript": "^4.3.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.28.0"
+  }
+}
